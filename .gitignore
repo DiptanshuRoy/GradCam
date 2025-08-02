@@ -1,0 +1,15 @@
+# Ignore dataset and model weights
+chest_xray/
+*.pt
+*.pth
+*.zip
+*.tar
+*.gz
+*.h5
+*.ckpt
+
+# VSCode and Python cache
+__pycache__/
+*.ipynb_checkpoints/
+.DS_Store
+data/raw/
