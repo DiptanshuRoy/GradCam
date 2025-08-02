@@ -15,14 +15,10 @@ XRAY-GRADCAM/
 │   └── chest_xray/         # Chest X-ray dataset
 │       └── raw/            # Raw image data
 ├── Grad_cam/               # Grad-CAM output directory
-│   ├── Figure_1.png        # Sample Grad-CAM visualization 1
-│   └── Figure_2.png        # Sample Grad-CAM visualization 2
-├── models/                 # Model files
-│   ├── model_final.py      # Final model implementation
-│   ├── model.py            # Model architecture
-│   ├── resnet18_xray.pth   # Pretrained weights
-│   └── resnet18_xray2.pth  # Additional pretrained weights
-└── myenv/                  # Python virtual environment
+    ├── Figure_1.png        # Sample Grad-CAM visualization 1
+    └── Figure_2.png        # Sample Grad-CAM visualization 2
+
+
 ```
 
 ## Dataset
